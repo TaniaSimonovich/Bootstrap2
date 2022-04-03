@@ -1,0 +1,64 @@
+.bg{
+    background: linear-gradient(67.3deg, rgba(18, 194, 233, 0.79) 0.66%, rgba(196, 113, 237, 0.87) 50.33%, rgba(246, 79, 89, 0.83) 100%);
+}
+
+.brd{
+    color: white;
+    border: 2px linear-gradient(67.3deg, rgba(18, 194, 233, 0.79) 0.66%, rgba(196, 113, 237, 0.87) 50.33%, rgba(246, 79, 89, 0.83) 100%);
+}
+.imgBg{
+    position: absolute;
+    top:26px;
+    left: 40px;
+}
+
+.container{
+    width: 1399px;
+    height: 807px;
+    margin-top: 155px;
+    margin-left: 164px;
+    z-index: 99;
+}
+
+.bgc{
+    background: linear-gradient(109.41deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 254, 254, 0.15) 100%);
+    border-radius: 50px;
+    backdrop-filter: blur(50px);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nitm{
+    font-family: 'Red Hat Mono';
+    font-size: 30px;
+}
+
+.margin{
+    margin-top: 183px;
+}
+.fs-1 a{
+    text-decoration: none;
+    color: black;
+}
+
+.ml{
+    margin-left: 105px;
+}
+
+.abs{
+    position: absolute;
+    left: 131px;
+    top: 233px;
+}
+
+.ml-4{
+    margin-left: 106px;
+    margin-top: 31px;
+}
+
+.nav-item .cb{
+    color: black;
+}
+
+.nav-item .cw{
+    color: white;
+}
